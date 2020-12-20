@@ -1,0 +1,120 @@
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Raleway", Helvetica, Arial, sans-serif;
+}
+
+p {
+  line-height: 1.55;
+  color: #333;
+  font-size: 400;
+  font-family: "Raleway", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  font-size: 62px;
+}
+
+h2 {
+  font-size: 30px;
+  margin-bottom: 65px;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+h4 {
+  font-size: 18px;
+}
+
+nav {
+	display: flex;
+	padding: 0px 5px;
+}
+
+
+/*index.jsp*/
+
+
+#h1 {
+	color: blue;
+	resize: horizontal;
+	justify-content: center;
+	font-style: italic;
+	text-align: center;
+	text-decoration: blink;
+}
+
+.formLogin {
+	border-style: solid;
+	border-collapse: collapse;
+	text-align: center;
+	width: 100%;
+	resize: horizontal;
+	background-image: url("logo.png");
+}
+
+#email {
+	vertical-align: top;
+	resize: horizontal;
+	opacity: inherit;
+	
+}
+
+.span, .i {
+	resize: horizontal;
+	border-collapse: collapse; 
+}
+
+#password {
+	width: 100px;
+	height: 100px;
+	vertical-align: top;
+	resize: horizontal;
+	opacity: inherit;
+}
+
+
+.paragrafo {
+	text-align: center;
+	border-collapse: collapse;	
+}
+
+#button {
+	background-position: right;
+}
+
+
+/* register.jsp*/
+/*
+.formRegister {
+	display: compact;
+	border: medium;
+	border-style: solid;
+	text-align: center;
+}
+*/
+.formRegister {
+	border-style: solid;
+	border-collapse: collapse;
+	text-align: center;
+	width: 100%;
+	resize: horizontal;
+	background-image: url("logo.png");
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
